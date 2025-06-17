@@ -17,7 +17,10 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
               className="d-flex main-logo align-items-center d-inline-flex"
               href="/"
             >
-              <img src="/assets/imgs/footer-1/logo.svg" alt="infinia" />
+              <img
+                src="assets/imgs/home-page-2/template/favicon.svg"
+                alt="infinia"
+              />
               <span className="fs-4 ms-2 text-dark">Ashik Shetty</span>
             </Link>
             <div
@@ -42,12 +45,16 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
                       </Link>
                     </li>
                     <li className="nav-item">
-                      <Link className="nav-link" href="#resume">
+                      <Link
+                        target="_blank"
+                        className="nav-link"
+                        href="/assets/ASHIK-KUMAR-SHETTY-resume.pdf"
+                      >
                         Resume
                       </Link>
                     </li>
                     <li className="nav-item">
-                      <Link className="nav-link" href="/work">
+                      <Link className="nav-link" href="#portfolio">
                         Portfolio
                       </Link>
                     </li>
@@ -57,12 +64,12 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
                       </Link>
                     </li> */}
                     <li className="nav-item">
-                      <Link className="nav-link" href="/blog-list">
-                        Blog
+                      <Link className="nav-link" href="#skills">
+                        Skills
                       </Link>
                     </li>
                     <li className="nav-item">
-                      <Link className="nav-link" href="/#contact">
+                      <Link className="nav-link" href="#contact">
                         Contact
                       </Link>
                     </li>

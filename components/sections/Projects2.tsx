@@ -25,7 +25,7 @@ const swiperOptions = {
 export default function Projects2() {
   return (
     <>
-      <div className="section-projects-2 pt-5">
+      <div className="section-projects-2 pt-5" id="projects">
         <div className="container">
           <div className="rounded-3 border border-1 position-relative overflow-hidden">
             <div className="box-linear-animation position-relative z-1">
@@ -275,7 +275,7 @@ export default function Projects2() {
               <img
                 className="position-absolute top-0 start-0 z-0"
                 src="assets/imgs/home-page-2/projects/bg.png"
-                alt="zelio"
+                alt="ashik"
               />
             </div>
           </div>

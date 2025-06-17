@@ -27,11 +27,11 @@ export default function Header2({
               <div className="container py-3 px-4">
                 <Link
                   className="navbar-brand d-flex main-logo align-items-center"
-                  href="/index-2"
+                  href="/"
                 >
                   <img
                     src="assets/imgs/home-page-2/template/favicon.svg"
-                    alt="zelio"
+                    alt="ashik"
                   />
                   <span className="fs-4 ms-2">Ashik Shetty</span>
                 </Link>
@@ -47,7 +47,11 @@ export default function Header2({
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link className="nav-link" href="#resume">
+                        <Link
+                          className="nav-link"
+                          href="/assets/ASHIK-KUMAR-SHETTY-resume.pdf"
+                          target="_blank"
+                        >
                           Resume
                         </Link>
                       </li>
@@ -62,8 +66,8 @@ export default function Header2({
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link className="nav-link" href="#blog">
-                          Blog
+                        <Link className="nav-link" href="#skills">
+                          Skills
                         </Link>
                       </li>
                       <li className="nav-item">

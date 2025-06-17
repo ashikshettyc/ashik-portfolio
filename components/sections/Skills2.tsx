@@ -124,7 +124,7 @@ export default function Skills2() {
                                   className="brand-logo icon_80 icon-shape rounded-3"
                                 >
                                   <img
-                                    src="assets/imgs/icons/strapi.svg"
+                                    src="assets/imgs/home-page-2/hero-1/strapi.png"
                                     alt="Strapi CMS"
                                   />
                                 </Link>
@@ -136,7 +136,7 @@ export default function Skills2() {
                                   className="brand-logo icon_80 icon-shape rounded-3"
                                 >
                                   <img
-                                    src="assets/imgs/icons/postgresql.svg"
+                                    src="assets/imgs/home-page-2/hero-1/postgre.png"
                                     alt="PostgreSQL"
                                   />
                                 </Link>

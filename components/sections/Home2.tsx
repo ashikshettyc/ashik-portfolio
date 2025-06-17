@@ -16,12 +16,12 @@ export default function Home2() {
                   <div className="position-relative mb-lg-0 mb-5">
                     <img
                       src="assets/imgs/home-page-2/hero-1/people.png"
-                      alt="zelio"
+                      alt="ashik"
                     />
                     <div className="position-absolute end-0 top-100 translate-middle-y icon-decorate">
                       <img
                         src="assets/imgs/home-page-2/hero-1/icon.svg"
-                        alt="zelio"
+                        alt="ashik"
                       />
                     </div>
                   </div>
@@ -148,12 +148,12 @@ export default function Home2() {
           <img
             className="bg-w"
             src="assets/imgs/home-page-2/hero-1/bg.png"
-            alt="zelio"
+            alt="ashik"
           />
           <img
             className="bg-d"
             src="assets/imgs/home-page-2/hero-1/bg-dark.png"
-            alt="zelio"
+            alt="ashik"
           />
         </div>
       </section>
