@@ -118,6 +118,67 @@ export default function Projects2() {
                         </div>
                       </SwiperSlide>
 
+                      {/* Cybersecurity */}
+                      <SwiperSlide>
+                        <div className="p-lg-5 p-md-4 p-3 border border-1 mt-5 bg-3">
+                          <div className="row">
+                            <div className="col-lg-5">
+                              <img
+                                className="w-100"
+                                src="assets/imgs/home-page-2/projects/cybersecurity.webp"
+                                alt="cybersecurity Project"
+                              />
+                            </div>
+                            <div className="col-lg-7 ps-lg-5 mt-5 mt-lg-0">
+                              <h4 className="text-linear-4">
+                                CyberSecurityOneStop - Comprehensive
+                                Cybersecurity Platform
+                              </h4>
+                              <p>
+                                Developed a cutting-edge cybersecurity platform
+                                that provides Aggrigation of cyber protection
+                                and analysis for online businesses.
+                              </p>
+                              <ul className="mt-4 list-unstyled">
+                                <li className="text-secondary-2 mb-3 border-bottom pb-3">
+                                  Project Info
+                                </li>
+                                <li className="d-flex justify-content-between border-bottom pb-3">
+                                  <p className="mb-0">Type</p>
+                                  <p className="text-300 mb-0">
+                                    SaaS | Client Project
+                                  </p>
+                                </li>
+                                <li className="d-flex justify-content-between border-bottom pb-3">
+                                  <p className="mb-0">Tech Stack</p>
+                                  <p className="text-300 mb-0">
+                                    Next.js, TypeScript, Tailwind CSS, SEO Meta
+                                    Tags, Apollo GraphQL
+                                  </p>
+                                </li>
+                              </ul>
+                              <br />
+                              <div className="d-flex flex-wrap align-items-center gap-3 mt-7">
+                                <Link
+                                  href="https://www.cybersecurityonestop.com/"
+                                  target="_blank"
+                                  className="text-300 border-bottom border-1 px-2 pb-2 link-hover"
+                                >
+                                  Live Demo
+                                </Link>
+                                {/* <Link
+                                  href="https://github.com/ashikshettyc"
+                                  target="_blank"
+                                  className="text-300 border-bottom border-1 px-2 pb-2 link-hover"
+                                >
+                                  View on GitHub
+                                </Link> */}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </SwiperSlide>
+
                       {/* RevealU */}
                       <SwiperSlide>
                         <div className="p-lg-5 p-md-4 p-3 border border-1 mt-5 bg-3">

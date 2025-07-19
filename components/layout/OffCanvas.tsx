@@ -45,13 +45,13 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
               >
                 <i className="ri-github-fill fs-18" />
               </Link>
-              <Link
+              {/* <Link
                 href="https://www.linkedin.com/in/ashik-shetty-c/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <i className="ri-linkedin-fill fs-18" />
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>

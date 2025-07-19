@@ -13,13 +13,13 @@ export default function Footer2() {
                 <span className="fs-4 ms-2">Ashik Shetty</span>
               </a>
               <div className="d-flex justify-content-center gap-3">
-                <a
+                {/* <a
                   href="https://www.linkedin.com/in/ashik-shetty-c/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <i className="ri-linkedin-fill fs-18" />
-                </a>
+                </a> */}
                 <a
                   href="https://github.com/ashikshettyc"
                   target="_blank"

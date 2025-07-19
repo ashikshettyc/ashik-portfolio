@@ -144,12 +144,12 @@ export default function Contact2() {
               value="ashikshettyc@gmail.com"
               href="mailto:ashikshettyc@gmail.com"
             />
-            <ContactInfo
+            {/* <ContactInfo
               icon="ri-linkedin-box-fill"
               label="LinkedIn"
               value="ashik-shetty-c"
               href="https://www.linkedin.com/in/ashik-shetty-c"
-            />
+            /> */}
             <ContactInfo
               icon="ri-map-2-fill"
               label="Address"

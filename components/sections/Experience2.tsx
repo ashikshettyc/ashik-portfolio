@@ -25,12 +25,12 @@ export default function Experience2() {
                   </span>
                 </div>
                 <h3>
-                  +1
+                  +2
                   <span className="text-300">year of </span>
                   real-world
                   <span className="text-300">
                     <br />
-                    frontend development
+                    Fullstack development
                   </span>
                 </h3>
                 <div className="row mt-5">
@@ -48,7 +48,7 @@ export default function Experience2() {
                           /> */}
                           <div className="d-flex flex-column ms-2">
                             <h5 className="mb-1">Sprite Genix</h5>
-                            <span className="text-300">Dec 2024 - Present</span>
+                            <span className="text-300">Dec 2023 - Present</span>
                           </div>
                         </div>
                       </Link>
@@ -65,7 +65,7 @@ export default function Experience2() {
                           <div className="d-flex flex-column ms-2">
                             <h5 className="mb-1">Aitsun Technologies</h5>
                             <span className="text-300">
-                              Jul 2024 - Nov 2024
+                              June 2023 - Nov 2023
                             </span>
                           </div>
                         </div>
@@ -73,10 +73,10 @@ export default function Experience2() {
                     </div>
                   </div>
                   <div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
-                    <h6 className="text-linear-4">Front End Developer</h6>
+                    <h6 className="text-linear-4">Full Stack Developer</h6>
                     <ul className="mt-4">
                       <li className="text-dark mb-3">
-                        Delivered 10+ frontend applications and 1 full-stack
+                        Delivered 30+ frontend applications and 2 full-stack
                         product in collaboration with UI/UX and backend teams.
                       </li>
                       <li className="text-dark mb-3">
@@ -118,13 +118,13 @@ export default function Experience2() {
                         href="#"
                         className="text-300 border border-1 px-3 py-1"
                       >
-                        GraphQL
+                        NodeJs
                       </Link>
                       <Link
                         href="#"
                         className="text-300 border border-1 px-3 py-1"
                       >
-                        Strapi CMS
+                        ExpressJs
                       </Link>
                     </div>
                   </div>

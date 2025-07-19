@@ -28,7 +28,7 @@ export default function Education2() {
                       <li className="position-relative z-1 mb-3">
                         <div className="d-flex gap-2">
                           <p className="text-300 text-nowrap fw-regular mb-0">
-                            Jan - Jul 2024:
+                            Jan - Jul 2023:
                           </p>
                           <div>
                             <span className="text-primary-2">UpGrad</span>
@@ -100,7 +100,7 @@ export default function Education2() {
                     <li className="position-relative z-1 mb-3">
                       <div className="d-flex gap-2">
                         <p className="text-300 text-nowrap fw-regular mb-0">
-                          2025:
+                          2024:
                         </p>
                         <div>
                           <span className="text-primary-2">

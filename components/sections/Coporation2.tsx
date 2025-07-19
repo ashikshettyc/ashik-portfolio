@@ -84,7 +84,7 @@ export default function Coporation2() {
                             </span>
                           </span>
                         </Link>
-                        <Link
+                        {/* <Link
                           href="https://linkedin.com/in/ashik-shetty-c"
                           target="_blank"
                         >
@@ -95,7 +95,7 @@ export default function Coporation2() {
                               ashik-shetty-c
                             </span>
                           </span>
-                        </Link>
+                        </Link> */}
                       </div>
                     </div>
                   </div>
@@ -162,6 +162,15 @@ export default function Coporation2() {
                     </li>
                     <li className="position-relative z-1">
                       <div className="d-flex align-items-center gap-2">
+                        <p className="text-300 text-nowrap">06 Jan:</p>
+                        <span className="text-dark">
+                          CyberSecurityOneStop - Developed a comprehensive
+                          cybersecurity platform
+                        </span>
+                      </div>
+                    </li>
+                    <li className="position-relative z-1">
+                      <div className="d-flex align-items-center gap-2">
                         <p className="text-300 text-nowrap">27 Apr:</p>
                         <span className="text-dark">
                           RevealU - SEO-optimized personal portfolio in Next.js
@@ -185,14 +194,14 @@ export default function Coporation2() {
                         </span>
                       </div>
                     </li>
-                    <li className="position-relative z-1">
+                    {/* <li className="position-relative z-1">
                       <div className="d-flex align-items-center gap-2">
                         <p className="text-300 text-nowrap">15 Mar:</p>
                         <span className="text-dark">
                           Aitsun POS - UI refinements
                         </span>
                       </div>
-                    </li>
+                    </li> */}
                   </ul>
                   <div className="line-left position-absolute border-start z-0" />
                 </div>

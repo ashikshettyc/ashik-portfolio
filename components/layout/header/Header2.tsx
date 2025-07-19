@@ -86,13 +86,13 @@ export default function Header2({
                     {/* <Link href="/http://twitter.com">
                       <i className="ri-twitter-x-fill fs-18" />
                     </Link> */}
-                    <Link
+                    {/* <Link
                       href="https://www.linkedin.com/in/ashik-shetty-c"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="ri-linkedin-fill fs-18" />
-                    </Link>
+                    </Link> */}
                     <Link
                       href="https://github.com/ashikshettyc"
                       target="_blank"
