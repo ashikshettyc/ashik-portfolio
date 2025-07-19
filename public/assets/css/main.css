@@ -3550,7 +3550,12 @@ Preloader
 .mb-80 {
   margin-bottom: 80px;
 }
-
+.swiper-nav-container {
+  display: flex;
+  gap: 12px; /* or whatever spacing you want */
+  align-items: center;
+  justify-content: center;
+}
 .swiper-button-next,
 .swiper-button-prev {
   --swiper-navigation-size: 24px;
